@@ -94,6 +94,12 @@ const API_SITES = {
 
     adult: false
   },
+//   xiaomaomi: {
+//     api: 'https://zy.xmm.hk/api.php/provide/vod',
+//     name: 'TV-小猫咪资源',
+//     detail: 'https://zy.xmm.hk',
+//     adult: false
+//   },
   xinlangapi: {
     api: 'https://api.xinlangapi.com/xinlangapi.php/provide/vod',
     name: 'TV-新浪点播',
@@ -285,12 +291,6 @@ const API_SITES = {
 
     adult: true
   },
-//   aosikazy: {
-//     api: 'https://aosikazy.com/api.php/provide/vod',
-//     name: 'AV-奥斯卡资源',
-//     detail: 'https://aosikazy.com',
-//     adult: true
-//   },
   naixxzy: {
     api: 'https://Naixxzy.com/api.php/provide/vod',
     name: 'AV-奶香香',
