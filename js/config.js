@@ -94,12 +94,6 @@ const API_SITES = {
 
     adult: false
   },
-//   xiaomaomi: {
-//     api: 'https://zy.xmm.hk/api.php/provide/vod',
-//     name: 'TV-小猫咪资源',
-//     detail: 'https://zy.xmm.hk',
-//     adult: false
-//   },
   xinlangapi: {
     api: 'https://api.xinlangapi.com/xinlangapi.php/provide/vod',
     name: 'TV-新浪点播',
@@ -268,16 +262,9 @@ const API_SITES = {
     detail: 'https://www.mdzyapi.com',
     adult: false
   },
-  a91md: {
-    api: 'https://91md.me/api.php/provide/vod',
-    name: 'AV-91麻豆',
-    detail: 'https://91md.me',
-    adult: true
-  },
   lbapiby: {
     api: 'http://lbapiby.com/api.php/provide/vod',
     name: 'AV-AIvin',
-
     adult: true
   },
   jkunzyapi: {
