@@ -364,12 +364,6 @@ const API_SITES = {
     detail: 'https://api.sexnguon.com',
     adult: true
   },
-  maozyapi: {
-    api: 'https://api.maozyapi.com/inc/apijson_vod.php',
-    name: 'AV-色猫资源',
-    detail: 'https://api.maozyapi.com',
-    adult: true
-  },
   apilj: {
     api: 'https://apilj.com/api.php/provide/vod',
     name: 'AV-辣椒资源',
@@ -421,46 +415,11 @@ const API_SITES = {
     name: '黄色资源啊啊',
     adult: true
   },
-  xiaojizy: {
-    api: 'https://api.xiaojizy.live/provide/vod',
-    name: '小鸡资源',
-    adult: false
-  },
-//   kuaichezy: {
-//     api: 'https://caiji.kuaichezy.org/api.php/provide',
-//     name: '快车资源阿',
-//     adult: false
-//   },
-  xinlangapi_provide: {
-    api: 'https://api.xinlangapi.com/xinlangapi.php/provide/vod',
-    name: '新浪资源阿',
-    adult: false
-  },
-  apilj_provide: {
-    api: 'https://apilj.com/api.php/provide',
-    name: '辣椒资源黄黄',
-    adult: false
-  },
-//   yzzy_api: {
-//     api: 'https://api.yzzy-api.com/inc/ldg_api_all.php/provide/vod',
-//     name: '优质资源库1080zyk6.com高清',
-//     adult: false
-//   },
-  iqiyizyapi: {
-    api: 'https://www.iqiyizyapi.com/api.php/provide/vod',
-    name: 'iqiyi资源',
-    adult: false
-  },
   xxibaozyw: {
     api: 'https://www.xxibaozyw.com/api.php/provide/vod',
     name: '细胞采集黄色',
     adult: true
   },
-//   qiqidys: {
-//     api: 'https://www.qiqidys.com/api.php/provide/vod/',
-//     name: '七七影视',
-//     adult: false
-//   }
 };
 
 // 定义合并方法
