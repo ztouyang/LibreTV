@@ -70,12 +70,12 @@ const API_SITES = {
 
     adult: false
   },
-  yayazy: {
-    api: 'https://cj.yayazy.net/api.php/provide/vod',
-    name: 'TV-丫丫点播',
-    detail: 'https://cj.yayazy.net',
-    adult: false
-  },
+//   yayazy: {
+//     api: 'https://cj.yayazy.net/api.php/provide/vod',
+//     name: 'TV-丫丫点播',
+//     detail: 'https://cj.yayazy.net',
+//     adult: false
+//   },
   guangsuapi: {
     api: 'https://api.guangsuapi.com/api.php/provide/vod',
     name: 'TV-光速资源',
@@ -112,12 +112,12 @@ const API_SITES = {
 
     adult: false
   },
-  xiaomaomi: {
-    api: 'https://zy.xmm.hk/api.php/provide/vod',
-    name: 'TV-小猫咪资源',
-    detail: 'https://zy.xmm.hk',
-    adult: false
-  },
+//   xiaomaomi: {
+//     api: 'https://zy.xmm.hk/api.php/provide/vod',
+//     name: 'TV-小猫咪资源',
+//     detail: 'https://zy.xmm.hk',
+//     adult: false
+//   },
   xinlangapi: {
     api: 'https://api.xinlangapi.com/xinlangapi.php/provide/vod',
     name: 'TV-新浪点播',
@@ -184,12 +184,12 @@ const API_SITES = {
 
     adult: false
   },
-  niuniuzy: {
-    api: 'https://api.niuniuzy.me/api.php/provide/vod',
-    name: 'TV-牛牛点播',
-    detail: 'https://api.niuniuzy.me',
-    adult: false
-  },
+//   niuniuzy: {
+//     api: 'https://api.niuniuzy.me/api.php/provide/vod',
+//     name: 'TV-牛牛点播',
+//     detail: 'https://api.niuniuzy.me',
+//     adult: false
+//   },
   dyttzyapi: {
     api: 'http://caiji.dyttzyapi.com/api.php/provide/vod',
     name: 'TV-电影天堂资源',
@@ -280,12 +280,12 @@ const API_SITES = {
     detail: 'https://jyzyapi.com',
     adult: false
   },
-  sdzyapi: {
-    api: 'https://sdzyapi.com/api.php/provide/vod',
-    name: 'TV-闪电资源',
-    detail: 'https://sdzyapi.com',
-    adult: false
-  },
+//   sdzyapi: {
+//     api: 'https://sdzyapi.com/api.php/provide/vod',
+//     name: 'TV-闪电资源',
+//     detail: 'https://sdzyapi.com',
+//     adult: false
+//   },
   ffzyapi: {
     api: 'https://cj.ffzyapi.com/api.php/provide/vod',
     name: 'TV-非凡资源',
@@ -358,12 +358,12 @@ const API_SITES = {
 
     adult: true
   },
-  aosikazy: {
-    api: 'https://aosikazy.com/api.php/provide/vod',
-    name: 'AV-奥斯卡资源',
-    detail: 'https://aosikazy.com',
-    adult: true
-  },
+//   aosikazy: {
+//     api: 'https://aosikazy.com/api.php/provide/vod',
+//     name: 'AV-奥斯卡资源',
+//     detail: 'https://aosikazy.com',
+//     adult: true
+//   },
   naixxzy: {
     api: 'https://Naixxzy.com/api.php/provide/vod',
     name: 'AV-奶香香',
@@ -481,11 +481,11 @@ const API_SITES = {
     name: '爱短剧.cc',
     adult: false
   },
-  huawei8: {
-    api: 'https://huawei8.live/api.php/provide/vod',
-    name: '华为吧资源',
-    adult: false
-  },
+//   huawei8: {
+//     api: 'https://huawei8.live/api.php/provide/vod',
+//     name: '华为吧资源',
+//     adult: false
+//   },
   taopianapi: {
     api: 'https://taopianapi.com/cjapi/sda/vod',
     name: '淘片资源',
@@ -496,11 +496,11 @@ const API_SITES = {
     name: '红牛资源',
     adult: false
   },
-  xsd_sdzyapi: {
-    api: 'https://xsd.sdzyapi.com/api.php/provide/vod',
-    name: '索尼-闪电资源',
-    adult: false
-  },
+//   xsd_sdzyapi: {
+//     api: 'https://xsd.sdzyapi.com/api.php/provide/vod',
+//     name: '索尼-闪电资源',
+//     adult: false
+//   },
   jyzyapi_provide: {
     api: 'https://jyzyapi.com/provide/vod',
     name: '金鹰资源采集网',
@@ -516,11 +516,11 @@ const API_SITES = {
     name: '金马资源网',
     adult: false
   },
-  dadiapi: {
-    api: 'https://dadiapi.com/api.php/provide/vod',
-    name: '大地资源网络',
-    adult: false
-  },
+//   dadiapi: {
+//     api: 'https://dadiapi.com/api.php/provide/vod',
+//     name: '大地资源网络',
+//     adult: false
+//   },
   hsckzy888: {
     api: 'https://hsckzy888.com/api.php/provide/vod',
     name: '黄色资源啊啊',
@@ -531,11 +531,11 @@ const API_SITES = {
     name: '小鸡资源',
     adult: false
   },
-  kuaichezy: {
-    api: 'https://caiji.kuaichezy.org/api.php/provide',
-    name: '快车资源阿',
-    adult: false
-  },
+//   kuaichezy: {
+//     api: 'https://caiji.kuaichezy.org/api.php/provide',
+//     name: '快车资源阿',
+//     adult: false
+//   },
   xinlangapi_provide: {
     api: 'https://api.xinlangapi.com/xinlangapi.php/provide/vod',
     name: '新浪资源阿',
@@ -546,11 +546,11 @@ const API_SITES = {
     name: '辣椒资源黄黄',
     adult: false
   },
-  yzzy_api: {
-    api: 'https://api.yzzy-api.com/inc/ldg_api_all.php/provide/vod',
-    name: '优质资源库1080zyk6.com高清',
-    adult: false
-  },
+//   yzzy_api: {
+//     api: 'https://api.yzzy-api.com/inc/ldg_api_all.php/provide/vod',
+//     name: '优质资源库1080zyk6.com高清',
+//     adult: false
+//   },
   iqiyizyapi: {
     api: 'https://www.iqiyizyapi.com/api.php/provide/vod',
     name: 'iqiyi资源',
@@ -561,11 +561,11 @@ const API_SITES = {
     name: '细胞采集黄色',
     adult: true
   },
-  qiqidys: {
-    api: 'https://www.qiqidys.com/api.php/provide/vod/',
-    name: '七七影视',
-    adult: false
-  }
+//   qiqidys: {
+//     api: 'https://www.qiqidys.com/api.php/provide/vod/',
+//     name: '七七影视',
+//     adult: false
+//   }
 };
 
 // 定义合并方法
