@@ -22,12 +22,6 @@ const SITE_CONFIG = {
 
 // API站点配置
 const API_SITES = {
-  a1080zyku: {
-    api: 'https://api.1080zyku.com/inc/api_mac10.php',
-    name: 'TV-1080资源',
-    detail: 'https://api.1080zyku.com',
-    adult: false
-  },
   a155api: {
     api: 'https://155api.com/api.php/provide/vod',
     name: 'AV-155资源',
@@ -38,12 +32,6 @@ const API_SITES = {
     api: 'https://360zy.com/api.php/provide/vod',
     name: 'TV-360资源',
     detail: 'https://360zy.com',
-    adult: false
-  },
-  ckzy: {
-    api: 'https://ckzy.me/api.php/provide/vod',
-    name: 'TV-CK资源',
-    detail: 'https://ckzy.me',
     adult: false
   },
   ukuapi: {
@@ -98,12 +86,6 @@ const API_SITES = {
     api: 'https://wolongzyw.com/api.php/provide/vod',
     name: 'TV-卧龙资源',
     detail: 'https://wolongzyw.com',
-    adult: false
-  },
-  tyyszy: {
-    api: 'https://tyyszy.com/api.php/provide/vod',
-    name: 'TV-天涯资源',
-    detail: 'https://tyyszy.com',
     adult: false
   },
   rycjapi: {
@@ -175,13 +157,11 @@ const API_SITES = {
   apiyhzy: {
     api: 'https://m3u8.apiyhzy.com/api.php/provide/vod',
     name: 'TV-樱花资源',
-
     adult: false
   },
   yparse: {
     api: 'https://api.yparse.com/api/json',
     name: 'TV-步步高资源',
-
     adult: false
   },
 //   niuniuzy: {
@@ -214,12 +194,12 @@ const API_SITES = {
     detail: 'https://api.1080zyku.com',
     adult: false
   },
-  suoniapi: {
-    api: 'https://suoniapi.com/api.php/provide/vod',
-    name: 'TV-索尼资源',
+//   suoniapi: {
+//     api: 'https://suoniapi.com/api.php/provide/vod',
+//     name: 'TV-索尼资源',
 
-    adult: false
-  },
+//     adult: false
+//   },
   hongniuzy2: {
     api: 'https://www.hongniuzy2.com/api.php/provide/vod',
     name: 'TV-红牛资源',
